@@ -1,4 +1,4 @@
-# MCODE — Build a Stunning 3D Website with HTML, CSS & Spline!
+# MCODE — 3D Website with HTML, CSS & Spline
 
 <div align="center">
   <img src="thumbnail.png" alt="MCODE 3D Website Preview" width="100%" style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
@@ -6,19 +6,16 @@
   <br />
   <br />
 
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://3-d-website-alpha.vercel.app/)
+  [![Live Preview](https://img.shields.io/badge/Live%20Preview-GitHub%20Pages-00f2fe?style=for-the-badge&logo=github)](https://kyukoten.github.io/3D-startup-app/)
   [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kyukoten/3D-startup-app)
-  [![Spline 3D](https://img.shields.io/badge/Spline-3D%20Scene-FF4B8B?style=for-the-badge&logo=spline)](https://community.spline.design/file/9d60c478-0e28-4514-a1ac-5605c039d6e6)
 
 </div>
 
 ---
 
-## 🚀 Live Preview Links
+## 🚀 Live Preview Website
 
-- **Live Demo Website**: [https://3-d-website-alpha.vercel.app/](https://3-d-website-alpha.vercel.app/)
-- **GitHub Pages Link**: [https://kyukoten.github.io/3D-startup-app/](https://kyukoten.github.io/3D-startup-app/) *(Enable GitHub Pages in repo Settings > Pages > branch `main`)*
-- **Interactive 3D Robot Scene**: [Spline Community File](https://community.spline.design/file/9d60c478-0e28-4514-a1ac-5605c039d6e6)
+- **Live Website**: [https://kyukoten.github.io/3D-startup-app/](https://kyukoten.github.io/3D-startup-app/)
 
 ---
 
@@ -57,8 +54,3 @@ Responsive 3D landing page built using **HTML5**, **Vanilla CSS3**, **AOS (Anima
    python -m http.server 3000
    ```
    Then navigate to `http://localhost:3000`.
-
----
-
-## 📜 Credits
-Based on the tutorial **"Build a Stunning 3D Website with HTML, CSS & Spline!"** by [MiladiCode](https://github.com/MiladiCode/3D-startup-app).
